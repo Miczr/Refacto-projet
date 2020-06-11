@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 function Navbar(){
     return(
         <div className="nav">
-            <nav class="header-menu">
+            <nav className="header-menu">
                 <Link to="/">
                 <a href="#">Accueil</a>
                 </Link>
